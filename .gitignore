@@ -12,6 +12,7 @@ testdata.script
 .classpath
 .project
 .DS_Store
+.idea
 projects/
 plugins/
 build-res/dojo-*
